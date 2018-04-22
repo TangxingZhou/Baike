@@ -1,5 +1,14 @@
 # Compiled class file
 *.class
+.classpath
+.project
+
+# Settings folder
+.settings
+
+# target & test-output folders
+target
+test-output
 
 # Log file
 *.log
